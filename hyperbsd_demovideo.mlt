@@ -1,0 +1,1768 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.0.0" title="Shotcut version HYPERBOLA-21.05.18" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1280" height="800" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="8" display_aspect_den="5" frame_rate_num="62500" frame_rate_den="1000" colorspace="709"/>
+  <chain id="chain0" out="00:00:40.320">
+    <property name="length">00:00:40.336</property>
+    <property name="eof">pause</property>
+    <property name="resource">first_run_jingle.ogg</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">579bb2a1f9815b3aa0f29e045ec5fd5c</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">first_run_jingle.ogg</property>
+    <property name="xml">was here</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="00:00:03.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:47:47</property>
+    <property name="shotcut:caption">rect1506.png</property>
+    <property name="shotcut:hash">b1f33531207dabbdd676f775dc99c5c8</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506a.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:49:29</property>
+    <property name="shotcut:caption">rect1506a.png</property>
+    <property name="shotcut:hash">df66e16e96df9b5dd127b8af7499c1da</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506b.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:49:58</property>
+    <property name="shotcut:caption">rect1506b.png</property>
+    <property name="shotcut:hash">2d5cf38c87235d223cc9f9c4fcb06a24</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506c.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:51:16</property>
+    <property name="shotcut:caption">rect1506c.png</property>
+    <property name="shotcut:hash">cbea80635567fb6d36b3cecee129d876</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506d.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:51:36</property>
+    <property name="shotcut:caption">rect1506d.png</property>
+    <property name="shotcut:hash">efc27ad85537c7794aabc93c49149045</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506e.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:52:25</property>
+    <property name="shotcut:caption">rect1506e.png</property>
+    <property name="shotcut:hash">efc27ad85537c7794aabc93c49149045</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506f.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:52:50</property>
+    <property name="shotcut:caption">rect1506f.png</property>
+    <property name="shotcut:hash">7e24d7466926cbd8bf5c19b78babf92e</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506g.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:53:57</property>
+    <property name="shotcut:caption">rect1506g.png</property>
+    <property name="shotcut:hash">92f33dd5d4810ae3b239c8879a3e3436</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506h.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:54:38</property>
+    <property name="shotcut:caption">rect1506h.png</property>
+    <property name="shotcut:hash">505c66a7e015ee4be00b8d92379aef1a</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506i.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:55:04</property>
+    <property name="shotcut:caption">rect1506i.png</property>
+    <property name="shotcut:hash">d861c47f3c58cee1464a9d98722f1948</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506j.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:55:23</property>
+    <property name="shotcut:caption">rect1506j.png</property>
+    <property name="shotcut:hash">171ed8e25791a6141df8ac9fa01ae343</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">light.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:58:12</property>
+    <property name="shotcut:caption">light.png</property>
+    <property name="shotcut:hash">85e5300664fa93944214ca3d5321452a</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">edit-imac-2493287_1920-by-bumiputra-rockers-pixabay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T11:22:04</property>
+    <property name="shotcut:caption">edit-imac-2493287_1920-by-bumiputra-rockers-pixabay.png</property>
+    <property name="shotcut:hash">cc77e484a210a206d5c18a804dec25ff</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506A.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T14:56:02</property>
+    <property name="shotcut:caption">rect1506A.png</property>
+    <property name="shotcut:hash">2187fc522f71b6b2d62d5dc26bf72e01</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506E.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T15:01:27</property>
+    <property name="shotcut:caption">rect1506E.png</property>
+    <property name="shotcut:hash">8eff209f3ed3d55ff4b98db6b3b160d1</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506B.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T14:56:27</property>
+    <property name="shotcut:caption">rect1506B.png</property>
+    <property name="shotcut:hash">f23fc8a790f8726a7503e74c2808b21e</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">recolor-download-97606_1280-by-openicons-pixabay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T11:18:53</property>
+    <property name="shotcut:caption">recolor-download-97606_1280-by-openicons-pixabay.png</property>
+    <property name="shotcut:hash">1221095876988959d7ad980beabff9e2</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">cd-1293924_1280-by-openclipartvectors-pixabay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T08:21:21</property>
+    <property name="shotcut:caption">cd-1293924_1280-by-openclipartvectors-pixabay.png</property>
+    <property name="shotcut:hash">b5c1d164e7ff86626824ecd7e9797e02</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506D.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T15:00:48</property>
+    <property name="shotcut:caption">rect1506D.png</property>
+    <property name="shotcut:hash">bf320cf067dc05e54bb4dc7b6fa88365</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">text1534C.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T14:58:28</property>
+    <property name="shotcut:caption">text1534C.png</property>
+    <property name="shotcut:hash">db01172dcf228eaadc86c882a8b19cdd</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">recolor-flashdisk-2605880_1920-by-stocksnap-pixabay.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T11:18:06</property>
+    <property name="shotcut:caption">recolor-flashdisk-2605880_1920-by-stocksnap-pixabay.jpg</property>
+    <property name="shotcut:hash">ab4b296bc4ff59a0811ad712951e29a7</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">recolor-button-g5b59459d8_1280-by-cikerfreevectorimages-pixabay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T16:07:15</property>
+    <property name="shotcut:caption">recolor-button-g5b59459d8_1280-by-cikerfreevectorimages-pixabay.png</property>
+    <property name="shotcut:hash">a0b1bdee7d72f0d93d3256f0e79ce07c</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">thinkpad.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:37:39</property>
+    <property name="shotcut:caption">thinkpad.png</property>
+    <property name="shotcut:hash">8f19b33aeb7a7de139edcdc4c7e5d801</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bg_black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:37:57</property>
+    <property name="shotcut:caption">bg_black.png</property>
+    <property name="shotcut:hash">ec2bff4d433eb727e7bc50f232dd9579</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">openrc.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:37:20</property>
+    <property name="shotcut:caption">openrc.png</property>
+    <property name="shotcut:hash">45177daeafb5ed3dc75ef91c8c4e3bc1</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506J.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:20:48</property>
+    <property name="shotcut:caption">rect1506J.png</property>
+    <property name="shotcut:hash">7f9b71834ea383f5120f6b3b159a723b</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer27" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">thinkpad2.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:51:37</property>
+    <property name="shotcut:caption">thinkpad2.png</property>
+    <property name="shotcut:hash">b7fc40bccb23b9bae0b62f5fece88501</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer29" in="00:00:00.000" out="00:00:03.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Screenshot-2022-09-04-19-47-14.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-09-04T12:47:37</property>
+    <property name="shotcut:caption">Screenshot-2022-09-04-19-47-14.png</property>
+    <property name="shotcut:hash">72f613c6720bea322b3972f99b0b7cbb</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <chain id="chain2" out="00:01:04.784">
+    <property name="length">00:01:04.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">simplescreenrecorder-2022-09-04_19.44.34.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">64fb1e3ffce594dbffc58b901f452990</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">simplescreenrecorder-2022-09-04_19.44.34.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain3" out="00:00:24.112">
+    <property name="length">00:00:24.128</property>
+    <property name="eof">pause</property>
+    <property name="resource">simplescreenrecorder-2022-09-04_18.54.36.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">90f05ff336f99d756d8484a3c9119730</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">simplescreenrecorder-2022-09-04_18.54.36.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain1" out="00:00:12.912">
+    <property name="length">00:00:12.928</property>
+    <property name="eof">pause</property>
+    <property name="resource">shore aerial by coverr at pixabay video.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">40aef3fa7e40805c75c0cc4f521be5d5</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">shore aerial by coverr at pixabay video.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain4" out="00:00:31.872">
+    <property name="length">00:00:31.888</property>
+    <property name="eof">pause</property>
+    <property name="resource">beach biker by mathieu at pixabay video.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">519c30a2efe1c70bcf0264102f111190</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">beach biker by mathieu at pixabay video.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain5" out="00:00:13.312">
+    <property name="length">00:00:13.328</property>
+    <property name="eof">pause</property>
+    <property name="resource">Asimplescreenrecorder-2022-09-10_22.43.47.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">0327d76064e099234d212ff55c691692</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Asimplescreenrecorder-2022-09-10_22.43.47.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <producer id="producer28" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect856.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-09-10T18:12:49</property>
+    <property name="shotcut:caption">rect856.png</property>
+    <property name="shotcut:hash">91a69649731ba89b805130b1365491c4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <chain id="chain6" out="00:00:11.216">
+    <property name="length">00:00:11.232</property>
+    <property name="eof">pause</property>
+    <property name="resource">Bsimplescreenrecorder-2022-09-10_22.48.30.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">f56dc6627a67af81b81369bad470efd6</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Bsimplescreenrecorder-2022-09-10_22.48.30.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain7" out="00:00:19.984">
+    <property name="length">00:00:20.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Csimplescreenrecorder-2022-09-10_22.45.32.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">b78ebdf04330b73a64ff5129e2e42a85</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Csimplescreenrecorder-2022-09-10_22.45.32.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:40.320"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer27" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="producer29" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:01:04.784"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:24.112"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:12.912"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:31.872"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:13.312"/>
+    <entry producer="producer28" in="00:00:00.000" out="00:00:03.984"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:11.216"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:19.984"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:40.160">
+    <property name="length">00:00:40.176</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:40.160"/>
+  </playlist>
+  <chain id="chain8" out="00:00:31.872">
+    <property name="length">00:00:31.888</property>
+    <property name="eof">pause</property>
+    <property name="resource">beach biker by mathieu at pixabay video.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">519c30a2efe1c70bcf0264102f111190</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">beach biker by mathieu at pixabay video.mp4</property>
+    <property name="xml">was here</property>
+    <filter id="filter1" in="00:00:02.816" out="00:00:07.136">
+      <property name="mlt_service">avfilter.hue</property>
+      <property name="av.h">0</property>
+      <property name="av.b">0</property>
+      <property name="av.s">0</property>
+    </filter>
+    <filter id="filter2" in="00:00:02.816" out="00:00:07.136">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-109.567 -21.6314 1499.13 843.263 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter0" in="00:00:02.816" out="00:00:07.136">
+      <property name="argument">FREE</property>
+      <property name="geometry">354 272 572 256 1</property>
+      <property name="family">Sans</property>
+      <property name="size">800</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaffffff</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </chain>
+  <chain id="chain9" out="00:00:12.912">
+    <property name="length">00:00:12.928</property>
+    <property name="eof">pause</property>
+    <property name="resource">shore aerial by coverr at pixabay video.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">40aef3fa7e40805c75c0cc4f521be5d5</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">shore aerial by coverr at pixabay video.mp4</property>
+    <property name="xml">was here</property>
+    <filter id="filter3" in="00:00:00.016" out="00:00:04.528">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-96.6767 -14.3807 1473.35 828.761 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter4" in="00:00:00.016" out="00:00:04.528">
+      <property name="mlt_service">avfilter.hue</property>
+      <property name="av.h">0</property>
+      <property name="av.b">0</property>
+      <property name="av.s">0</property>
+    </filter>
+    <filter id="filter5" in="00:00:00.016" out="00:00:04.528">
+      <property name="argument">AS IN
+FREEDOM</property>
+      <property name="geometry">233 213 814 375 1</property>
+      <property name="family">Sans</property>
+      <property name="size">400</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaffffff</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </chain>
+  <producer id="producer43" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506A.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T14:56:02</property>
+    <property name="shotcut:caption">rect1506A.png</property>
+    <property name="shotcut:hash">2187fc522f71b6b2d62d5dc26bf72e01</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer32" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506B.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T14:56:27</property>
+    <property name="shotcut:caption">rect1506B.png</property>
+    <property name="shotcut:hash">f23fc8a790f8726a7503e74c2808b21e</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer33" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">text1534C.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T14:58:28</property>
+    <property name="shotcut:caption">text1534C.png</property>
+    <property name="shotcut:hash">db01172dcf228eaadc86c882a8b19cdd</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer34" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506E.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T15:01:27</property>
+    <property name="shotcut:caption">rect1506E.png</property>
+    <property name="shotcut:hash">8eff209f3ed3d55ff4b98db6b3b160d1</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer35" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bg_black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:37:57</property>
+    <property name="shotcut:caption">bg_black.png</property>
+    <property name="shotcut:hash">ec2bff4d433eb727e7bc50f232dd9579</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer70" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506J.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:20:48</property>
+    <property name="shotcut:caption">rect1506J.png</property>
+    <property name="shotcut:hash">7f9b71834ea383f5120f6b3b159a723b</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <chain id="chain10" out="00:00:24.112">
+    <property name="length">00:00:24.128</property>
+    <property name="eof">pause</property>
+    <property name="resource">simplescreenrecorder-2022-09-04_18.54.36.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">90f05ff336f99d756d8484a3c9119730</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">simplescreenrecorder-2022-09-04_18.54.36.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain11" out="00:01:04.784">
+    <property name="length">00:01:04.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">simplescreenrecorder-2022-09-04_19.44.34.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">64fb1e3ffce594dbffc58b901f452990</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">simplescreenrecorder-2022-09-04_19.44.34.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <producer id="producer30" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter6" out="00:00:01.248">
+      <property name="argument">CREATE YOUR OWN SYSTEM</property>
+      <property name="geometry">104 343 1072 114 1</property>
+      <property name="family">Sans</property>
+      <property name="size">800</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#000000</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer38" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Screenshot-2022-09-04-19-47-14.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-09-04T12:47:37</property>
+    <property name="shotcut:caption">Screenshot-2022-09-04-19-47-14.png</property>
+    <property name="shotcut:hash">72f613c6720bea322b3972f99b0b7cbb</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <chain id="chain13" out="00:00:11.216">
+    <property name="length">00:00:11.232</property>
+    <property name="eof">pause</property>
+    <property name="resource">Bsimplescreenrecorder-2022-09-10_22.48.30.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">f56dc6627a67af81b81369bad470efd6</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Bsimplescreenrecorder-2022-09-10_22.48.30.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain12" out="00:00:13.312">
+    <property name="length">00:00:13.328</property>
+    <property name="eof">pause</property>
+    <property name="resource">Asimplescreenrecorder-2022-09-10_22.43.47.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">0327d76064e099234d212ff55c691692</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Asimplescreenrecorder-2022-09-10_22.43.47.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain14" out="00:00:19.984">
+    <property name="length">00:00:20.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Csimplescreenrecorder-2022-09-10_22.45.32.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">b78ebdf04330b73a64ff5129e2e42a85</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Csimplescreenrecorder-2022-09-10_22.45.32.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <producer id="producer74" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer31" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506a.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:49:29</property>
+    <property name="shotcut:caption">rect1506a.png</property>
+    <property name="shotcut:hash">df66e16e96df9b5dd127b8af7499c1da</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer55" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506b.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:49:58</property>
+    <property name="shotcut:caption">rect1506b.png</property>
+    <property name="shotcut:hash">2d5cf38c87235d223cc9f9c4fcb06a24</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer56" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506c.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:51:16</property>
+    <property name="shotcut:caption">rect1506c.png</property>
+    <property name="shotcut:hash">cbea80635567fb6d36b3cecee129d876</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer57" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506e.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:52:25</property>
+    <property name="shotcut:caption">rect1506e.png</property>
+    <property name="shotcut:hash">efc27ad85537c7794aabc93c49149045</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer58" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506f.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:52:50</property>
+    <property name="shotcut:caption">rect1506f.png</property>
+    <property name="shotcut:hash">7e24d7466926cbd8bf5c19b78babf92e</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer59" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506g.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:53:57</property>
+    <property name="shotcut:caption">rect1506g.png</property>
+    <property name="shotcut:hash">92f33dd5d4810ae3b239c8879a3e3436</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer60" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506h.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:54:38</property>
+    <property name="shotcut:caption">rect1506h.png</property>
+    <property name="shotcut:hash">505c66a7e015ee4be00b8d92379aef1a</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer61" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506i.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:55:04</property>
+    <property name="shotcut:caption">rect1506i.png</property>
+    <property name="shotcut:hash">d861c47f3c58cee1464a9d98722f1948</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer62" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506j.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:55:23</property>
+    <property name="shotcut:caption">rect1506j.png</property>
+    <property name="shotcut:hash">171ed8e25791a6141df8ac9fa01ae343</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer63" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect1506.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:47:47</property>
+    <property name="shotcut:caption">rect1506.png</property>
+    <property name="shotcut:hash">b1f33531207dabbdd676f775dc99c5c8</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain8" in="00:00:02.816" out="00:00:07.136"/>
+    <entry producer="chain9" in="00:00:00.016" out="00:00:04.528"/>
+    <entry producer="producer43" in="00:00:00.000" out="00:00:00.768"/>
+    <entry producer="producer32" in="00:00:00.000" out="00:00:00.768"/>
+    <entry producer="producer33" in="00:00:00.000" out="00:00:00.768"/>
+    <entry producer="producer34" in="00:00:00.000" out="00:00:00.768"/>
+    <entry producer="producer35" in="00:00:00.976" out="00:00:05.072"/>
+    <entry producer="producer70" in="00:00:00.400" out="00:00:02.016"/>
+    <entry producer="chain10" in="00:00:14.416" out="00:00:17.568"/>
+    <entry producer="chain11" in="00:00:51.840" out="00:00:54.992"/>
+    <entry producer="producer30" in="00:00:00.000" out="00:00:01.248"/>
+    <entry producer="producer38" in="00:00:00.480" out="00:00:01.392"/>
+    <entry producer="chain13" in="00:00:03.376" out="00:00:04.480"/>
+    <entry producer="chain12" in="00:00:04.960" out="00:00:06.224"/>
+    <entry producer="chain14" in="00:00:06.544" out="00:00:11.232"/>
+    <entry producer="producer74" in="00:00:00.000" out="00:00:00.352"/>
+    <entry producer="producer31" in="00:00:00.160" out="00:00:00.304"/>
+    <entry producer="producer55" in="00:00:00.000" out="00:00:00.144"/>
+    <entry producer="producer56" in="00:00:00.000" out="00:00:00.144"/>
+    <entry producer="producer57" in="00:00:00.000" out="00:00:00.144"/>
+    <entry producer="producer58" in="00:00:00.000" out="00:00:00.144"/>
+    <entry producer="producer59" in="00:00:00.000" out="00:00:00.144"/>
+    <entry producer="producer60" in="00:00:00.160" out="00:00:00.304"/>
+    <entry producer="producer61" in="00:00:00.000" out="00:00:00.144"/>
+    <entry producer="producer62" in="00:00:00.000" out="00:00:00.144"/>
+    <entry producer="producer63" in="00:00:00.000" out="00:00:04.976"/>
+  </playlist>
+  <producer id="producer36" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rect856.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-09-10T18:12:49</property>
+    <property name="shotcut:caption">rect856.png</property>
+    <property name="shotcut:hash">91a69649731ba89b805130b1365491c4</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter7" out="00:00:08.848">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">170.151 212.689 939.698 587.311 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer64" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">edit-imac-2493287_1920-by-bumiputra-rockers-pixabay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T11:22:04</property>
+    <property name="shotcut:caption">edit-imac-2493287_1920-by-bumiputra-rockers-pixabay.png</property>
+    <property name="shotcut:hash">cc77e484a210a206d5c18a804dec25ff</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter9" in="00:00:00.176" out="00:00:00.944">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">264.468 35.9551 751.065 563.298 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer65" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">cd-1293924_1280-by-openclipartvectors-pixabay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T08:21:21</property>
+    <property name="shotcut:caption">cd-1293924_1280-by-openclipartvectors-pixabay.png</property>
+    <property name="shotcut:hash">b5c1d164e7ff86626824ecd7e9797e02</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter10" out="00:00:00.880">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">361.199 89.8876 448.355 416.479 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer66" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">recolor-flashdisk-2605880_1920-by-stocksnap-pixabay.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T11:18:06</property>
+    <property name="shotcut:caption">recolor-flashdisk-2605880_1920-by-stocksnap-pixabay.jpg</property>
+    <property name="shotcut:hash">ab4b296bc4ff59a0811ad712951e29a7</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter11" out="00:00:00.768">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">320.4 122.846 639.201 479.401 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter12" out="00:00:00.768">
+      <property name="start">1</property>
+      <property name="level">1.073</property>
+      <property name="mlt_service">brightness</property>
+    </filter>
+  </producer>
+  <producer id="producer67" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">recolor-button-g5b59459d8_1280-by-cikerfreevectorimages-pixabay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T16:07:15</property>
+    <property name="shotcut:caption">recolor-button-g5b59459d8_1280-by-cikerfreevectorimages-pixabay.png</property>
+    <property name="shotcut:hash">a0b1bdee7d72f0d93d3256f0e79ce07c</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter13" out="00:00:00.768">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">443.003 127.327 393.994 393.994 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter14" out="00:00:00.768">
+      <property name="start">1</property>
+      <property name="level">0.951</property>
+      <property name="mlt_service">brightness</property>
+    </filter>
+  </producer>
+  <producer id="producer68" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">openrc.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:37:20</property>
+    <property name="shotcut:caption">openrc.png</property>
+    <property name="shotcut:hash">45177daeafb5ed3dc75ef91c8c4e3bc1</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter15" in="00:00:00.224" out="00:00:01.488">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">0</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 800 1280 800 1;00:00:00.992=0 -220 1280 800 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.008</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.992=0</property>
+    </filter>
+  </producer>
+  <producer id="producer69" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">thinkpad2.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:51:37</property>
+    <property name="shotcut:caption">thinkpad2.png</property>
+    <property name="shotcut:hash">b7fc40bccb23b9bae0b62f5fece88501</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer44" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter16" out="00:00:00.352">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=1;00:00:00.352=0</property>
+      <property name="opacity">00:00:00.000=1;00:00:00.352=0</property>
+      <property name="shotcut:animIn">00:00:00.368</property>
+    </filter>
+  </producer>
+  <producer id="producer71" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter17" out="00:00:00.352">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=1;00:00:00.352=0</property>
+      <property name="opacity">00:00:00.000=1;00:00:00.352=0</property>
+      <property name="shotcut:animIn">00:00:00.368</property>
+    </filter>
+  </producer>
+  <producer id="producer37" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter18" out="00:00:00.352">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.352=1</property>
+      <property name="opacity">00:00:00.000=0;00:00:00.352=1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.368</property>
+    </filter>
+  </producer>
+  <producer id="producer40" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Screenshot-2022-09-04-19-47-14.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-09-04T12:47:37</property>
+    <property name="shotcut:caption">Screenshot-2022-09-04-19-47-14.png</property>
+    <property name="shotcut:hash">72f613c6720bea322b3972f99b0b7cbb</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter19" in="00:00:03.632" out="00:00:03.984">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.352=1</property>
+      <property name="opacity">00:00:00.000=0;00:00:00.352=1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.368</property>
+    </filter>
+    <filter id="filter8" in="00:00:03.632" out="00:00:03.984">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=-1379.27 -862 4038.4 2524 1;00:00:00.352=0 0 1280 800 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.368</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.352=0</property>
+    </filter>
+  </producer>
+  <producer id="producer41" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter20" in="00:00:03.216" out="00:00:03.984">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.768=1</property>
+      <property name="opacity">00:00:00.000=0;00:00:00.768=1</property>
+      <property name="shotcut:animOut">00:00:00.784</property>
+    </filter>
+  </producer>
+  <producer id="producer75" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter21" out="00:00:00.144">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=1;00:00:00.144=0</property>
+      <property name="opacity">00:00:00.000=1;00:00:00.144=0</property>
+      <property name="shotcut:animIn">00:00:00.160</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer76" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">light.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T04:58:12</property>
+    <property name="shotcut:caption">light.png</property>
+    <property name="shotcut:hash">85e5300664fa93944214ca3d5321452a</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter22" in="00:00:00.032" out="00:00:03.568">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">0</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=-1280 0 1280 800 1;00:00:00.992=272.659 -152.809 1801.35 1075.66 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.008</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.992=0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="producer36" in="00:00:00.000" out="00:00:08.848"/>
+    <entry producer="producer64" in="00:00:00.176" out="00:00:00.944"/>
+    <entry producer="producer65" in="00:00:00.112" out="00:00:00.880"/>
+    <entry producer="producer66" in="00:00:00.000" out="00:00:00.768"/>
+    <entry producer="producer67" in="00:00:00.000" out="00:00:00.768"/>
+    <entry producer="producer68" in="00:00:00.224" out="00:00:01.488"/>
+    <entry producer="producer69" in="00:00:00.016" out="00:00:02.832"/>
+    <blank length="00:00:01.632"/>
+    <entry producer="producer44" in="00:00:00.016" out="00:00:00.352"/>
+    <blank length="00:00:02.816"/>
+    <entry producer="producer71" in="00:00:00.000" out="00:00:00.352"/>
+    <blank length="00:00:02.432"/>
+    <entry producer="producer37" in="00:00:00.000" out="00:00:00.352"/>
+    <blank length="00:00:00.896"/>
+    <entry producer="producer40" in="00:00:03.632" out="00:00:03.984"/>
+    <blank length="00:00:07.248"/>
+    <entry producer="producer41" in="00:00:03.216" out="00:00:03.984"/>
+    <blank length="00:00:01.808"/>
+    <entry producer="producer75" in="00:00:00.000" out="00:00:00.144"/>
+    <blank length="00:00:01.280"/>
+    <entry producer="producer76" in="00:00:00.032" out="00:00:03.568"/>
+  </playlist>
+  <chain id="chain15" out="00:00:40.320">
+    <property name="length">00:00:40.336</property>
+    <property name="eof">pause</property>
+    <property name="resource">first_run_jingle.ogg</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">579bb2a1f9815b3aa0f29e045ec5fd5c</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">first_run_jingle.ogg</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:defaultAudioIndex">0</property>
+  </chain>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain15" in="00:00:00.000" out="00:00:40.160"/>
+  </playlist>
+  <producer id="producer39" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter23" out="00:00:02.016">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=1;00:00:02.016=0</property>
+      <property name="opacity">00:00:00.000=1;00:00:02.016=0</property>
+      <property name="shotcut:animIn">00:00:02.032</property>
+    </filter>
+  </producer>
+  <producer id="producer42" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter24" in="00:00:01.968" out="00:00:03.376">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:01.408=1</property>
+      <property name="opacity">00:00:00.000=0;00:00:01.408=1</property>
+      <property name="shotcut:animOut">00:00:01.424</property>
+    </filter>
+  </producer>
+  <producer id="producer45" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer77" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">recolor-download-97606_1280-by-openicons-pixabay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-28T11:18:53</property>
+    <property name="shotcut:caption">recolor-download-97606_1280-by-openicons-pixabay.png</property>
+    <property name="shotcut:hash">1221095876988959d7ad980beabff9e2</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter25" out="00:00:00.768">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">641.498 317.603 248.689 248.689 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer78" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">thinkpad.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-29T03:37:39</property>
+    <property name="shotcut:caption">thinkpad.png</property>
+    <property name="shotcut:hash">8f19b33aeb7a7de139edcdc4c7e5d801</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer46" in="00:00:00.000" out="03:59:59.984">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bgwhite.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-08-21T14:20:58</property>
+    <property name="shotcut:caption">bgwhite.png</property>
+    <property name="shotcut:hash">60dcc99a21a4643ee986e0797c35c042</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <filter id="filter26" out="00:00:01.056">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:01.056=1</property>
+      <property name="opacity">00:00:00.000=0;00:00:01.056=1</property>
+      <property name="shotcut:animOut">00:00:01.072</property>
+    </filter>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <entry producer="producer39" in="00:00:00.000" out="00:00:02.016"/>
+    <blank length="00:00:04.800"/>
+    <entry producer="producer42" in="00:00:01.968" out="00:00:03.376"/>
+    <entry producer="producer45" in="00:00:03.760" out="00:00:04.352"/>
+    <blank length="00:00:00.784"/>
+    <entry producer="producer77" in="00:00:00.000" out="00:00:00.768"/>
+    <blank length="00:00:01.568"/>
+    <entry producer="producer78" in="00:00:00.000" out="00:00:01.264"/>
+    <blank length="00:00:25.824"/>
+    <entry producer="producer46" in="00:00:00.000" out="00:00:01.056"/>
+  </playlist>
+  <tractor id="tractor1" title="Shotcut version HYPERBOLA-21.05.18" in="00:00:00.000" out="00:00:40.160">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">2.07003</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <track producer="playlist2" hide="video"/>
+    <track producer="playlist3"/>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">1</property>
+      <property name="b_track">4</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>

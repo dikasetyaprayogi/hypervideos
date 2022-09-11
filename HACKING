@@ -1,0 +1,17 @@
+install shotcut video editor then you can edit/render hyperbsd_demovideo.mlt .
+shotcut will ask you to search for source files,
+point shotcut source request into asset's root folder.
+
+simple editing tips:
+if you just want to make a small addition or changing an asset,
+edit the asset files without changing their filename,
+also make sure the edited files retain same size/dimension/format,
+then re render/export the video again with shotcut.
+
+text editing:
+some text are an plain image (from renders.svg),
+some are shotcut filters (inside shotcut itself),
+check those both when editing text files.
+
+used video format: 1280x800px 60fps
+
